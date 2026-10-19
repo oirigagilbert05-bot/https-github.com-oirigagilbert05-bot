@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Hi%2C+I%27m+G-tech+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFF00&width=600&lines=Hi%2C+I%27m+G-tech+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 💻🚀 Aspiring Software Developer | 🌱 Always Learning
 
 

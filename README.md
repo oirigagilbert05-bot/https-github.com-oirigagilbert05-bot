@@ -48,11 +48,11 @@ Welcome to my GitHub profile! I'm an IT student passionate about software develo
 
 ## Current Goals
 
-  🌱 Expand my programming and software development skills
-  🔨 Build practical projects and a strong portfolio
-  📚 Improve my problem-solving and technical skills
-  🤝 Collaborate with other developers
-  🎓 Complete my IT degree and prepare for a career in tech
+   -Expand my programming and software development skills
+  -Build practical projects and a strong portfolio
+  -Improve my problem-solving and technical skills
+  - Collaborate with other developers
+  - Complete my IT degree and prepare for a career in tech
 
 ## 📫 Connect With Me
 

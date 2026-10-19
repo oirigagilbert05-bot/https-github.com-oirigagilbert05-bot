@@ -1,4 +1,4 @@
-# Hi, I'm G-tech 👋
+Hi, I'm G-tech 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Aspiring+Software+Developer;Always+Learning;Building+Cool+Projects)](https://git.io/typing-svg)
 
 💻🚀 Aspiring Software Developer | 🌱 Always Learning

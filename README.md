@@ -1,4 +1,4 @@
-# Hi, I'm Gilbert Amwata 👋
+# Hi, I'm G-tech 👋
 
 💻🚀 Aspiring Software Developer | 🌱 Always Learning
 

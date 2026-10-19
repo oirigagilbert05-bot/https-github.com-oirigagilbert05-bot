@@ -1,8 +1,10 @@
-Hi, I'm G-tech 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Aspiring+Software+Developer;Always+Learning;Building+Cool+Projects)](https://git.io/typing-svg)
+## Hi, I'm G-tech 👋
+
 
 💻🚀 Aspiring Software Developer | 🌱 Always Learning
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Aspiring+Software+Developer;Always+Learning;Building+Cool+Projects)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Hi%2C+I%27m+G-tech+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 
 Welcome to my GitHub profile! I'm an IT student passionate about software development, web technologies, and solving real-world problems through code. I'm continuously improving my skills, building projects, and exploring new technologies.
 

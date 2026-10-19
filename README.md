@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Hi%2C+I%27m+G-tech+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-💻🚀 Aspiring Software Developer | 🌱 Always Learning
+💻🚀 Aspiring Software Developer |  Always Learning
 
 
 Welcome to my GitHub profile! I'm an IT student passionate about software development, web technologies, and solving real-world problems through code. I'm continuously improving my skills, building projects, and exploring new technologies.

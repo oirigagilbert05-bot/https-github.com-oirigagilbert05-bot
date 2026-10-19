@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I'm an IT student passionate about software develo
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oirigagilbert05-bot&theme=tokyo-night&hide_border=true)
 
+## 🧊 My 3D Contributions
+
+![3D GitHub Contributions](./profile-3d-contrib/profile-night-green.svg)
+
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages

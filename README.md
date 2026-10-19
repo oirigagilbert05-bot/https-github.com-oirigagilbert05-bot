@@ -1,6 +1,7 @@
 # Hi, I'm G-tech 👋
 
 💻🚀 Aspiring Software Developer | 🌱 Always Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm an IT student passionate about software development, web technologies, and solving real-world problems through code. I'm continuously improving my skills, building projects, and exploring new technologies.
 

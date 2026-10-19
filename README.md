@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm an IT student passionate about software develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oirigagilbert05-bot&theme=tokyo-night&hide_border=true)
 ## My Contributions 
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/oirigagilbert05-bot/https-github.com-oirigagilbert05-bot/output/github-snake.svg)

@@ -5,11 +5,6 @@
 
 Welcome to my GitHub profile! I'm an IT student passionate about software development, web technologies, and solving real-world problems through code. I'm continuously improving my skills, building projects, and exploring new technologies.
 
-## 📊 My GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oirigagilbert05-bot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true)
 
 ## My Contributions 
 

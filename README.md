@@ -100,23 +100,23 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 ---
 
+
 ## 🚀 Featured Projects
 
 Here are some projects I'm working on and developing.
 
-<!-- Replace these examples with your real project repository names and descriptions -->
-
 <div align="center">
 
-<a href="https://github.com/oirigagilbert05-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=[REPOSITORY_NAME](https://github.com/oirigagilbert05-bot)&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/oirigagilbert05-bot/Marigold-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=Marigold-Website&theme=tokyonight&hide_border=true" alt="Marigold Website" />
+</a>
+
+<a href="https://github.com/oirigagilbert05-bot/AgroWeather-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=AgroWeather-system&theme=tokyonight&hide_border=true" alt="AgroWeather System" />
 </a>
 
 </div>
 
-> 💡 Replace `REPOSITORY_NAME` with the name of an existing repository.
-
----
 
 ## 🎯 Current Goals
 

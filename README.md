@@ -59,13 +59,14 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=oirigagilbert05-bot&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=oirigagilbert05-bot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
 </div>
 

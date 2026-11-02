@@ -85,10 +85,9 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oirigagilbert05-bot/oirigagilbert05-bot/output/github-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/oirigagilbert05-bot/https-github.com-oirigagilbert05-bot/output/github-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
-
 ---
 
 ## 🧊 3D GitHub Contributions

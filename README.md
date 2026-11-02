@@ -99,7 +99,6 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 
 
-## Featured Projects
 
 <h2 align="center">🚀 Featured Projects</h2>
 

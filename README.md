@@ -110,7 +110,7 @@ Here are some projects I'm working on and developing.
 <div align="center">
 
 <a href="https://github.com/oirigagilbert05-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=[REPOSITORY_NAME](https://github.com/oirigagilbert05-bot)&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>

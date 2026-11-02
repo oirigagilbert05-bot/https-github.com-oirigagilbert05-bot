@@ -100,21 +100,33 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 
 ## Featured Projects
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   Here are some projects I'm working on and developing.
 </p>
 
-<div align="center">
-  <a href="https://github.com/oirigagilbert05-bot/Marigold-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=Marigold-Website&theme=tokyonight" width="400" alt="Marigold Website" />
-  </a>
+<h3>🌼 Marigold Website</h3>
 
-  <a href="https://github.com/oirigagilbert05-bot/AgroWeather-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=AgroWeather-system&theme=tokyonight" width="400" alt="AgroWeather System" />
+<p>
+  <a href="https://github.com/oirigagilbert05-bot/Marigold-Website">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</div>
+  <img src="https://img.shields.io/github/stars/oirigagilbert05-bot/Marigold-Website?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/oirigagilbert05-bot/Marigold-Website?style=flat-square" />
+</p>
+
+<h3>🌦️ AgroWeather System</h3>
+
+<p>
+  <a href="https://github.com/oirigagilbert05-bot/AgroWeather-system">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/github/stars/oirigagilbert05-bot/AgroWeather-system?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/oirigagilbert05-bot/AgroWeather-system?style=flat-square" />
+</p>
+
 
 ## 🎯 Current Goals
 

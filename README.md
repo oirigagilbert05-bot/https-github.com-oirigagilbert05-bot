@@ -61,15 +61,17 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oirigagilbert05-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oirigagilbert05-bot&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oirigagilbert05-bot&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
 
----
 
 ## 🔥 GitHub Streak
 

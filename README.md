@@ -57,9 +57,6 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,androidstudio" />
 </p>
 
----
-
-## 📊 GitHub Statistics
 
 
 ## 📊 GitHub Statistics

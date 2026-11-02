@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+G-tech+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<h3>💻 Aspiring Software Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
+<h3>💻 Aspiring Software Developer | 🚀 Tech Enthusiast |  Lifelong Learner</h3>
 
 <img src="https://komarev.com/ghpvc/?username=oirigagilbert05-bot&label=PROFILE+VIEWS&color=00cc88&style=for-the-badge" alt="Profile Views"/>
 

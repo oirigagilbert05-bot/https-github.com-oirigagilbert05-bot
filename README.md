@@ -29,9 +29,6 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 - 🤝 Open to collaboration and learning opportunities
 - 🎯 Goal: Become a skilled professional software developer
 
----
-
-## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 
@@ -102,23 +99,22 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-Here are some projects I'm working on and developing.
+<p align="center">
+  Here are some projects I'm working on and developing.
+</p>
 
 <div align="center">
+  <a href="https://github.com/oirigagilbert05-bot/Marigold-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=Marigold-Website&theme=tokyonight" width="400" alt="Marigold Website" />
+  </a>
 
-<a href="https://github.com/oirigagilbert05-bot/Marigold-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=Marigold-Website&theme=tokyonight&hide_border=true" width="400" alt="Marigold Website" />
-</a>
-
-<a href="https://github.com/oirigagilbert05-bot/AgroWeather-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=AgroWeather-system&theme=tokyonight&hide_border=true" width="400" alt="AgroWeather System" />
-</a>
-
+  <a href="https://github.com/oirigagilbert05-bot/AgroWeather-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oirigagilbert05-bot&repo=AgroWeather-system&theme=tokyonight" width="400" alt="AgroWeather System" />
+  </a>
 </div>
-
-
 
 ## 🎯 Current Goals
 
